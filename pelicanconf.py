@@ -3,7 +3,7 @@
 
 AUTHOR = 'mom'
 SITENAME = 'momsite'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
