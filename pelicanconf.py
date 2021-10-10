@@ -6,6 +6,7 @@ SITENAME = 'momsite'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs'
 THEME = 'jhc-aboutwilson'
 
 TIMEZONE = 'Europe/Paris'
